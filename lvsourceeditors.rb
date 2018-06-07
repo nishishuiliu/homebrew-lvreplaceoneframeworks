@@ -7,7 +7,7 @@ class Lvsourceeditors < Formula
     homepage "http://lvioscode.com/ios_support_tools/LvmmSourceEditor.git"
     url "http://10.200.5.103/ios_support_tools/LvmmSourceEditor/raw/1.1.3/ReplaceOneFramework/lvrof"
     version "1.1.3"
-    sha256  "23e05700e92023b87bdbce209d2ba110d273261259a0435279380fd8ae8d0efe"
+    sha256  "32a3eb9c79b33d16de0417aa8361ba7bcd8a8b00446aafd713737b39c1623549"
     
     # depends_on "cmake" => :build
     
