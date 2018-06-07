@@ -5,7 +5,7 @@
 class Lvsourceeditors < Formula
   desc "replace #import to @import quote"
   homepage "http://lvioscode.com/ios_support_tools/LvmmSourceEditor.git"
-  url "http://10.200.5.103/ios_support_tools/LvmmSourceEditor/blob/1.1.3/ReplaceOneFramework/lvrof"
+  url "http://10.200.5.103/ios_support_tools/LvmmSourceEditor/raw/1.1.3/ReplaceOneFramework/lvrof"
   version "1.1.3"
   sha256 "23e05700e92023b87bdbce209d2ba110d273261259a0435279380fd8ae8d0efe"
 
